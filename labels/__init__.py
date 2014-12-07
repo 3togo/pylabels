@@ -14,5 +14,5 @@
 # You should have received a copy of the GNU General Public License along with
 # pylabels.  If not, see <http://www.gnu.org/licenses/>.
 
-from sheet import Sheet
-from specifications import Specification, InvalidDimension
+from .sheet import Sheet
+from .specifications import Specification, InvalidDimension
